@@ -18,7 +18,7 @@ function Home() {
                 </div>
 
                 <div className="col-lg-6 col-md-12 col-sm-12">
-                  <img className="img-fluid" src="./portfolio-master/images/nomad-bro.png" alt="..."></img>
+                  <img className="img-fluid" src="./images/nomad-bro.png" alt="..."></img>
                 </div>
 
               </div>
