@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react'
-import {SiJavascript,SiMicrosoftsqlserver,SiNodedotjs,SiDotnet,SiReact,SiHtml5,SiCss3,SiBootstrap,SiCsharp,SiMongodb,SiExpress,SiPug} from 'react-icons/si'
+import {SiJavascript,SiMaterialui,SiPostman,SiJquery,SiMicrosoftsqlserver,SiNodedotjs,SiDotnet,SiReact,SiHtml5,SiCss3,SiBootstrap,SiCsharp,SiMongodb,SiExpress,SiPug} from 'react-icons/si'
 function Skills() {
   return (
     <Fragment>
@@ -23,10 +23,13 @@ function Skills() {
                                     <span><SiNodedotjs className='fs-4'/> Node.js</span>
                                 </div>
                                 <div className='mx-2 my-3 border rounded py-1 px-2 mw-fc'>
-                                    <span><SiDotnet className='fs-4'/> ASP.NET Core</span>
+                                    <span><SiDotnet className='fs-4'/> Dot.NET MVC</span>
                                 </div>
                                 <div className='mx-2 my-3 border rounded py-1 px-2 mw-fc'>
                                     <span><SiReact className='fs-4'/> React</span>
+                                </div>
+                                <div className='mx-2 my-3 border rounded py-1 px-2 mw-fc'>
+                                    <span><SiMaterialui className='fs-4'/> Material UI</span>
                                 </div>
                                 <div className='mx-2 my-3 border rounded py-1 px-2 mw-fc'>
                                     <span><SiHtml5 className='fs-4'/> Html</span>
@@ -47,7 +50,10 @@ function Skills() {
                                     <span><SiExpress className='fs-4'/> Express</span>
                                 </div>
                                 <div className='mx-2 my-3 border rounded py-1 px-2 mw-fc'>
-                                    <span><SiPug className='fs-4'/> Pug</span>
+                                    <span><SiJquery className='fs-4'/> JQuery</span>
+                                </div>
+                                <div className='mx-2 my-3 border rounded py-1 px-2 mw-fc'>
+                                    <span><SiPostman className='fs-4'/> Postman</span>
                                 </div>
                                 
                             </div>

@@ -51,15 +51,15 @@ function Sidebar() {
                             <span className="d-none d-sm-inline mx-1">Contact</span>
                         </a>
                         <ul className="dropdown-menu shadow" aria-labelledby="dropdownUser1">
-                            <li><a className="dropdown-item text-black" href="mailto:gohilyagnik3@email.com" target="/blank"><MdEmail className='fs-5'/> Email</a></li>
+                            <li><a className="dropdown-item text-black" href="mailto:mukeshmhanta4@email.com" target="/blank"><MdEmail className='fs-5'/> Email</a></li>
                             <li> <hr className="dropdown-divider"/> </li>
-                            <li><a className="dropdown-item text-black" href="https://www.linkedin.com/in/gohil-yagnik-087601189/" target="/blank"><AiFillLinkedin className='fs-5'/> LinkedIn</a></li>
+                            <li><a className="dropdown-item text-black" href="https://www.linkedin.com/in/mukesh-mhanta-844b98147/" target="/blank"><AiFillLinkedin className='fs-5'/> LinkedIn</a></li>
                             <li> <hr className="dropdown-divider"/> </li>
-                            <li><a className="dropdown-item text-black" href="https://join.skype.com/invite/XcmpKERo7On2" target="/blank"><AiFillSkype className='fs-5'/> Skype</a></li>
+                            <li><a className="dropdown-item text-black" href="#" target="/blank"><AiFillSkype className='fs-5'/> Skype</a></li>
                             <li> <hr className="dropdown-divider"/> </li>
-                            <li><a className="dropdown-item text-black" href="https://github.com/Yagnik-Gohil" target="/blank"><AiFillGithub className='fs-5'/> Github</a></li>
-                            <li> <hr className="dropdown-divider"/> </li>
-                            <li><a className="dropdown-item text-black" href="https://yagnik-19.showwcase.com/" target="/blank"><VscAccount className='fs-5'/> Showwcase</a></li>
+                            <li><a className="dropdown-item text-black" href="https://github.com/MukeshMhanta02" target="/blank"><AiFillGithub className='fs-5'/> Github</a></li>
+                            {/* <li> <hr className="dropdown-divider"/> </li> */}
+                            {/* <li><a className="dropdown-item text-black" href="https://yagnik-19.showwcase.com/" target="/blank"><VscAccount className='fs-5'/> Showwcase</a></li> */}
                         </ul>
                     </div>
                 </div>

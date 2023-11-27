@@ -20,11 +20,11 @@ function About() {
                             </p>
                             <p className='slide-in-bottom'>
                                 Previously worked as Full stack web developer.<br></br>
-                                The technology I've worked on : <span className="text-red ls-2">Asp.Net Core, Asp.Net Mvc, <br></br>
-                                C#, Sql, Ssms, Telerik-UI, Html, Css, Js, Bootstrap </span>
+                                The technology I've worked on : <span className="text-red ls-2"> .Net Mvc, <br></br>
+                                C#, Sql, Sitefinity CMS, Html, Css, Javascript ES6,React JS, Material UI, Bootstrap  </span>
                             </p>
                             <p className='slide-in-bottom'>
-                                Currently Learning React Js Library
+                                Currently Learning DevOps SaaS
                             </p>
                         </div>
                     </div>
