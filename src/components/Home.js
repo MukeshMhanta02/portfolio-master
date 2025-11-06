@@ -11,7 +11,7 @@ function Home() {
                 <h1 className="m-0 font-big slide-in-top">Hi,</h1>
                 <h1 className="m-0 font-big animate-charcter">I'm Mukesh,</h1>
                 <p className="ls-2 mt-2 slide-in-bottom">
-                  Full Stack Developer | React |{" "}
+                  .Net Full Stack Developer | React{" "}
                 </p>
               </div>
             </div>
