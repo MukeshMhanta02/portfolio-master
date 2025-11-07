@@ -106,7 +106,7 @@ function Skills() {
             <div className="col-lg-6 col-md-12 col-sm-12">
               <img
                 className="img-fluid"
-                src="./images/Development-pana.png"
+                src={`${process.env.PUBLIC_URL}/images/Development-pana.png`}
                 alt="..."
               ></img>
             </div>

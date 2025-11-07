@@ -24,21 +24,21 @@ function MyWork() {
                 <div className="carousel-inner">
                   <div className="carousel-item active">
                     <img
-                      src="./portfolio-images/w-01.png"
+                      src={`${process.env.PUBLIC_URL}/portfolio-images/w-01.png`}
                       className="d-block w-100"
                       alt="..."
                     />
                   </div>
                   <div className="carousel-item">
                     <img
-                      src="./portfolio-images/w-02.png"
+                      src={`${process.env.PUBLIC_URL}/portfolio-images/w-02.png`}
                       className="d-block w-100"
                       alt="..."
                     />
                   </div>
                   <div className="carousel-item">
                     <img
-                      src="./portfolio-images/w-03.png"
+                      src={`${process.env.PUBLIC_URL}/portfolio-images/w-03.png`}
                       className="d-block w-100"
                       alt="..."
                     />
