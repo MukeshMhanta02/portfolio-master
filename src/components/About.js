@@ -32,7 +32,8 @@ function About() {
                   </span>
                 </p>
                 <p className="slide-in-bottom">
-                  Currently Learning DevOps SaaS
+                  CI/CD Pipeline Automation, Azure DevOps Integration, Version
+                  Control Management, Automated Build Deployment.
                 </p>
               </div>
             </div>
